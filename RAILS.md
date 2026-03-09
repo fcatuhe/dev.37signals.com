@@ -18,7 +18,7 @@ bin/ci                 # Full CI suite (run before handoff)
 
 ## Style
 
-@STYLE.md
+READ STYLE.md in this same directory. It defines Ruby/Rails code style (method ordering, visibility modifiers, conditionals, bang methods, CRUD controllers, model interactions, jobs).
 
 ## Rails Way — Non-Negotiable
 
