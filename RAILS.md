@@ -294,7 +294,6 @@ end
 
 - **2-space indent.** No tabs.
 - **Frozen string literals** — let Rubocop enforce it.
-- **Trailing commas** in multi-line arrays/hashes.
 - **Double quotes** for strings (Rails convention).
 - **Symbol array:** `%i[foo bar baz]`.
 - **String array:** `%w[foo bar baz]`.
